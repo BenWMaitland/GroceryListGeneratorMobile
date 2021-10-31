@@ -1,0 +1,9 @@
+export const HOME_NAVIGATOR = 'Home';
+export const EXPLORE = 'Explore';
+export const ADD_POST = 'Add Post';
+export const CHATS = 'Chats';
+export const PROFILE = 'Profile';
+export const OWN_POSTS = 'Posts';
+export const PROFILE_PET = 'Pet Profile';
+export const LOGIN = 'Login';
+export const REGISTER = 'Register';
